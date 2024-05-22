@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="146px" viewBox="0 0 128 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.0714291%" y1="1.74839515%" x2="91.0619938%" y2="45.4097643%" id="linearGradient-1">
+            <stop stop-color="#3A98CB" offset="0%"></stop>
+            <stop stop-color="#249D87" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_v1" transform="translate(-1287.000000, -610.000000)" fill="url(#linearGradient-1)">
+            <path d="M1410.89811,651.007245 C1417.77412,665.168124 1427.64214,687.617391 1422.6338,703.608778 C1416.6498,722.694372 1389.44307,737.199052 1371.80702,742.91358 C1348.54006,750.43074 1336.05173,748.888282 1315.56305,734.634483 C1297.95487,722.406323 1280.71837,706.907408 1279.10158,684.346637 C1277.21532,657.474418 1301.9504,635.424702 1324.07445,625.696067 C1347.1184,615.530711 1387.44531,622.174431 1405.32296,642.663105 C1407.55302,645.218381 1409.43928,647.996664 1410.89811,651.007245 Z" id="Fill-6" transform="translate(1351.500000, 684.179461) rotate(-110.000000) translate(-1351.500000, -684.179461) "></path>
+        </g>
+    </g>
+</svg>

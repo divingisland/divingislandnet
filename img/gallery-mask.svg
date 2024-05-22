@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="660px" viewBox="0 0 1440 660" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>photo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1848.37299,1336.41895 C1692.94316,1378.06625 1537.40477,1324.03955 1386.24922,1372.2073 C1225.36183,1423.3431 1078.5934,1564.05181 915.671932,1620.37981 C748.015177,1678.19899 611.362771,1645.59315 447.062741,1589.01428 C18.4160171,1441.70318 59.7281956,938.178018 439.10396,749.674761 C738.0316,601.114292 1079.67825,637.581634 1394.99744,552.36613 C1626.48935,489.708596 2015.00693,105.663152 2227.27848,361.445094 C2336.49376,493.11545 2478.35558,719.578658 2422.62969,904.447841 C2353.87463,1132.68825 2012.71577,1292.38344 1848.37299,1336.41895 Z" id="path-1"></path>
+    </defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tour-v2">
+            <g id="header" transform="translate(-478.000000, -844.000000)">
+                <g id="photo">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#153648" transform="translate(1287.552226, 962.657033) scale(-1, 1) rotate(15.000000) translate(-1287.552226, -962.657033) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

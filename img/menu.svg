@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="19px" viewBox="0 0 27 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu" transform="translate(-5.000000, -9.000000)">
+            <polygon id="Shape" points="0 0 36 0 36 36 0 36"></polygon>
+            <path d="M5,11.5 C5,10.1192881 6.12578146,9 7.49169922,9 L29.5083008,9 C30.8844283,9 32,10.1096621 32,11.5 C32,12.8807119 30.8742185,14 29.5083008,14 L7.49169922,14 C6.11557174,14 5,12.8903379 5,11.5 Z M5,18.5 C5,17.1192881 6.12578146,16 7.49169922,16 L29.5083008,16 C30.8844283,16 32,17.1096621 32,18.5 C32,19.8807119 30.8742185,21 29.5083008,21 L7.49169922,21 C6.11557174,21 5,19.8903379 5,18.5 Z M5,25.5 C5,24.1192881 6.12578146,23 7.49169922,23 L29.5083008,23 C30.8844283,23 32,24.1096621 32,25.5 C32,26.8807119 30.8742185,28 29.5083008,28 L7.49169922,28 C6.11557174,28 5,26.8903379 5,25.5 Z" id="Combined-Shape" fill="#A35ABF"></path>
+        </g>
+    </g>
+</svg>

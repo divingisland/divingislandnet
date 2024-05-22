@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>add guest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Booking-form" transform="translate(-891.000000, -764.000000)" stroke="#A35ABF" stroke-width="2.23999983">
+            <g id="book-1" transform="translate(146.000000, 110.000000)">
+                <g id="add-guest" transform="translate(755.500000, 664.500000) rotate(-45.000000) translate(-755.500000, -664.500000) translate(749.000000, 658.000000)">
+                    <polyline id="Stroke-1" points="12.8040149 0 6.40220124 6.40181366 0.000387577641 0"></polyline>
+                    <polyline id="Stroke-3" points="0 12.7344447 6.40181366 6.33263106 12.8045963 12.7344447"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
